@@ -1,8 +1,5 @@
 #Day 1 Advent Code Part 1
 
-#https://adventofcode.com/2022/day/1/input
-  #ask Michael or Noah how they were able to get this to work
-
 #Read in Data
 elf_food <- read.csv("/Users/avbell/Downloads/Advent_Code_Day_1.rtf")
 
